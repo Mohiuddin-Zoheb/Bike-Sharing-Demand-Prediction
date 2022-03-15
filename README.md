@@ -10,13 +10,14 @@
 > You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
 
 ## Conclusions
-> a. Season: the count of bike sharing is least in spring and high in fall
-> b. Yr: there was an increase in bike sharing in the year 2019 when compared to 2018
-> c. Mnth: there is a surge in bike sharing from May to September
-> d. Holiday: there is surge in bike sharing from May to September
-> e. Weekday: not much effected
-> f. Workingday: not much difference
-> g. Weathersit: most rentals in clear weather but no rentals in heavy rains and snow
+> To conclude:
+1. Season: the count of bike sharing is least in spring and high in fall
+2. Yr: there was an increase in bike sharing in the year 2019 when compared to 2018
+3. Mnth: there is a surge in bike sharing from May to September
+4. Holiday: there is surge in bike sharing from May to September
+5. Weekday: not much effected
+6. Workingday: not much difference
+7. Weathersit: most rentals in clear weather but no rentals in heavy rains and snow
 
 > What the model has learned on the training set, it is also able to generalize on the test set
 
